@@ -1,0 +1,1 @@
+console.log('Open DevTools on a page and use the Elements panel to select different elements in the tree.');
